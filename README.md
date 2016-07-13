@@ -1,4 +1,4 @@
-##Selenium DEMO
+##Selenium Demo
 自动化测试demo,通过Selenium实现web端自动化测试,提高回归测试效率
 
 ##原理
